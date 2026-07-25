@@ -1,0 +1,11 @@
+{
+  "name": "cj-rastreadores",
+  "version": "1.0.0",
+  "description": "CJ RASTREADORES — sistema de rastreamento veicular para empresas (painel + servidor, zero dependências)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {}
+}
